@@ -15,13 +15,13 @@ Atualmente, atuo no setor administrativo de transporte, onde desenvolvo uma vis�
 
 ### Formação e Objetivos
 
-* 🎓 Cursando **Sistemas de Informação**.
-* 🎯 Objetivo: Consolidar carreira como Desenvolvedor Backend, aplicando a experiência organizacional que adquiri no setor administrativo para resolver problemas complexos com código eficiente.
-* 🌱 No momento, estou aprofundando meus conhecimentos em C++ e explorando frameworks de Python para Backend.
+* Cursando **Sistemas de Informação**.
+* Objetivo: Consolidar carreira como Desenvolvedor Backend, aplicando a experiência organizacional que adquiri no setor administrativo para resolver problemas complexos com código eficiente.
+* No momento, estou aprofundando meus conhecimentos em C++ e explorando frameworks de Python para Backend.
 
 ---
 
-### 📈 Estatísticas e Contato
+### Estatísticas e Contato
 
 Para trocar uma ideia sobre tecnologia ou oportunidades:
 
