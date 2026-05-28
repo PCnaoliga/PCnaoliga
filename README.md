@@ -8,7 +8,7 @@ Atualmente, atuo no setor administrativo de transporte, onde desenvolvo uma vis�
 
 ### Minha Stack Técnica
 
-* **Linguagens:** C, C++, Python
+* **Linguagens:** C, C++, Java
 * **Área de Interesse:** Desenvolvimento de sistemas robustos, APIs e arquitetura de software.
 
 ---
